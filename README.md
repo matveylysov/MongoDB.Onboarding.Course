@@ -1,3 +1,2 @@
 # MongoDB.Onboarding.Course
-YouTube video links from M102: MongoDB for DBAs course
-- [Find links here](https://github.com/humingchun/MongoDB.University/blob/master/M102.MongoDB.for.DBAs.md)
+YouTube video links from M102: MongoDB for DBAs course (https://github.com/matveylysov/MongoDB.Onboarding.Course/M102.MongoDB.for.DBAs)
